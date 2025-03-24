@@ -9,7 +9,6 @@ This project is part of the **42cursus** curriculum and focuses on implementing 
 - [Usage](#usage)
 - [Features](#features)
 - [Built With](#built-with)
-- [License](#license)
 
 ## Description
 
@@ -68,3 +67,9 @@ int main() {
 
     return 0;
 }
+
+## Built With
+
+- **C++** – The programming language used for the container implementations.
+- **Make** – The build automation tool used to compile the project.
+
