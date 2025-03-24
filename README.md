@@ -49,6 +49,7 @@ To run the tests or use the containers, compile the main program and test differ
 
 ```bash
 make run
+```
 ### Example Usage:
 
 Here is an example of using the `vector` container:
